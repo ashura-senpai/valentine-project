@@ -1,5 +1,11 @@
 # React + TypeScript + Vite
 
+> Hey! If you liked my project and are in need of a help to make one too, you can find me on social media, all of them are on my profile here on Github. Send me a message, maybe I can help a little.
+>
+> CHECK OUT FULL DETAILS ON THE CODESANDBOX. You will need to install some dependencies, is you have error, try "rm -rf node_modules npm install" on the terminal.
+>
+> This project is already an existing project that I saw on the internet, but I found it very complicated and difficult to do and find, in addition to the fact that it was very difficult for someone to support me. I also adapted it a little in my style, I hope you like it.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
