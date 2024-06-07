@@ -1,4 +1,4 @@
-# React + TypeScript + Vite - 👉 [PROJECT RESULT HERE](https://ln86xx-5173.csb.app/app.html)
+# React + TypeScript + Vite - [PROJECT RESULT HERE](https://codesandbox.io/p/github/ashura-senpai/valentine-project)
 
 > Hey! If you liked my project and are in need of a help to make one too, you can find me on social media, all of them are on my profile here on Github. Send me a message, maybe I can help a little.
 >
